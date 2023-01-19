@@ -75,6 +75,14 @@ main {
         grid-template-columns: 1fr 1fr 1fr;
         align-items: center;
     }
+
+    .intro__declaration, .intro__support {
+        font-size: 2.5rem;
+    }
+
+    .intro {
+        padding-top: 2rem;
+    }
     
 }
 
